@@ -7,7 +7,7 @@ description: >-
   tincidunt.
 price: '200'
 order: 1
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: /images/closeup.jpg
 default_original_image: /images/majestic-spinach.jpg
 category: src/pages/category/bigplants.md
 featured: true
