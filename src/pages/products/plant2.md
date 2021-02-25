@@ -6,7 +6,7 @@ price: '99.00'
 order: 2
 default_thumbnail_image: /images/closeupbow.jpg
 default_original_image: /images/rainbowchair.jpg
-category: src/pages/category/cactuses.md
+category: src/pages/category/pillows.md
 template: product
 ---
 
