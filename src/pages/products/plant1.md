@@ -9,7 +9,7 @@ price: '200'
 order: 1
 default_thumbnail_image: /images/closeup.jpg
 default_original_image: /images/majestic-spinach.jpg
-category: src/pages/category/bigplants.md
+category: src/pages/category/pillows.md
 featured: true
 template: product
 ---
