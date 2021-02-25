@@ -49,17 +49,5 @@ sections:
         author:
           name: Major Payne
           location: 'VA, USA'
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: images/leaf.svg
-    cta:
-      type: action
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 template: home
 ---
