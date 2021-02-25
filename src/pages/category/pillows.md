@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Pillows
 order: 1
 template: category
 ---
