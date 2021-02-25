@@ -8,6 +8,7 @@ default_thumbnail_image: /images/closeupbow.jpg
 default_original_image: /images/rainbowchair.jpg
 category: src/pages/category/pillows.md
 template: product
+featured: true
 ---
 
 # Integer porta
