@@ -6,10 +6,11 @@ sections:
     section_id: hero_section
     background_image: /images/PillowChair.jpg
     background_image_opacity: 65
-    content: |
-      # Beautiful handmade home accessories
+    content: |+
+      # Welcome to Tuft
 
-      Some sub-text line
+      Have a look through our beautiful handmade home accessories
+
     actions:
       - type: action
         title: See all items
